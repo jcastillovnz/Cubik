@@ -1,7 +1,10 @@
-.fakeimg {
-      height: 200px;
-      background: #aaa;
-  }
+ .navbar-nav {
+      flex-direction: row;
+    }
+    
+.bg-trans {
+    background-color: rgba(255,255,255,.5)!important;
+}
   
 #particles-js{
   width: 65%;
